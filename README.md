@@ -16,4 +16,4 @@ In duo mode, the first player enters a word for the second player to guess.
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## Credits
-This Hangman game was created by Massinissa TAZEKRITT.
+This Hangman game was developed by Massinissa TAZEKRITT.
